@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("This is just beginning!\n");
+  return 0;
+}
